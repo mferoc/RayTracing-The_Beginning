@@ -1,5 +1,5 @@
 # RayTracing-The_Beginning
-In this repo you see my start of <b>study<b> and <b>experimentations with ray tracing :sunny:
+In this repo you see my start of <b>study</b> and <b>experimentations</b> with ray tracing :sunny:
 
 ## Tools
 * POV-Ray - [see more](https://github.com/POV-Ray/povray "Povray's Github Project")
